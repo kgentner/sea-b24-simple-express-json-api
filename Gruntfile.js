@@ -14,7 +14,8 @@ module.exports = function(grunt) {
     jscs: {
       all: {
         options: {
-          standard: 'airbnb'
+          //standard: 'airbnb'
+          // 'preset':'aribnb'
         },
         files: {
           src: [ 'server.js']
