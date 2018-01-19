@@ -3,7 +3,6 @@
 A simple json api using express
 
 ## Instructions
----------------------------
   * Fork this repo
   * Clone that fork
   * run `npm install`
