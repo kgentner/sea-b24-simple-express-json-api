@@ -1,8 +1,8 @@
-Simple JSON API
-==============================
+# Simple JSON API
+
 A simple json api using express
 
-Instructions
+## Instructions
 ---------------------------
   * Fork this repo
   * Clone that fork
